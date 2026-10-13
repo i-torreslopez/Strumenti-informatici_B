@@ -1,0 +1,17 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Archivos de Python y entornos
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/
+plots/
+
+# Editor y Sistema Operativo
+.vscode/
+.DS_Store
+Thumbs.db
+
